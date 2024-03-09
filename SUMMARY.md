@@ -32,3 +32,4 @@
 * [🗺️ Hoja de ruta](ecosistema/roadmap.md)
 * [🎭 Equipo](ecosistema/team.md)
 * [❓ Preguntas frecuentes](ecosistema/preguntas-frecuentes.md)
+* [🎭 Información](ecosistema/info-oficial.md)
