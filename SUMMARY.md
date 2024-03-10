@@ -18,7 +18,7 @@
 * [🏬 Mercado](economia/mercado.md)
 * [🏁 Competición](economia/competicion.md)
 * [💻 Desarrolladores](economia/desarrolladores.md)
-* [📂 Esquema económico](economia/objetivos-1.md)
+* [📂 Esquema económico](economia/esquema-economico.md)
 
 ## Pre-venta
 
