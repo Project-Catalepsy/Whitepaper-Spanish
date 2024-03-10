@@ -22,6 +22,10 @@ La elección y combinación de las habilidades no solo reflejan el estilo de jue
 Las habilidades del jugador, conocidas como habilidades o habilidades Élites, no representan las habilidades finales y están sujetas a cambios. Estamos constantemente revisando y ajustando estas habilidades para garantizar una experiencia de juego equilibrada y emocionante para todos los jugadores. Apreciamos su comprensión y paciencia mientras trabajamos para perfeccionar y pulir estas habilidades antes del lanzamiento oficial del juego.
 {% endhint %}
 
+##
+
+<figure><img src="../.gitbook/assets/sketch-skills-system (1).png" alt=""><figcaption><p><em>Boceto que representa el sistema de habilidades.</em></p></figcaption></figure>
+
 ## Habilidades
 
 Las habilidades son las habilidades que tu contenedor podrá usar en función del tipo sanguíneo de tu portón. Cada tipo sanguíneo dispone de 12 habilidades únicas.

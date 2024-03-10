@@ -48,7 +48,11 @@ Antes de iniciar la incursión el jugador debe aceptar las siguientes reglas:
 
 Una vez iniciada la incursión el jugador deberá desencer por 20 niveles, superando los desafios que se le presenten. El hecho de sólo poder descender añade un sentido de permanencia y desafío al juego, ya que cada decisión de descenso debe ser cuidadosamente considerada.
 
+<div align="center" data-full-width="true">
+
 <figure><img src="../.gitbook/assets/image.png" alt="" width="486"><figcaption></figcaption></figure>
+
+</div>
 
 ## Controles
 
