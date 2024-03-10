@@ -24,93 +24,93 @@ Las fases del proyecto son aproximadas y están sujetas a posibles modificacione
 
 ## Fase 1: Conceptualización
 
-* Concepto e idea inicial.
-* Investigación de mercado y análisis de la competencia.
-* Definición de objetivos y alcance del proyecto.
-* Formación del equipo de desarrollo.
-* Creación del whitepaper y documentación técnica.
+* [x] Concepto e idea inicial - Finalizada 13/01/2024.
+* [x] Investigación de mercado y análisis de la competencia - Finalizada 11/02/2024.
+* [x] Definición de objetivos y alcance del proyecto - Finalizada 17/02/2024.
+* [x] Creación del whitepaper y documentación técnica - Finalizada 10/03/2024.
 
 ## Fase 2: Desarrollo inicial
 
-* Creación de página web v1.
-* Creación de comunidades: (Telegram, Discord, Reddit, X, [Playtoearn.net](http://playtoearn.net))
-* Creación Pitch Deck (Presentación para socios e inversores).
-* Creación de prototipo.
+* [ ] Creación de página web v1.
+* [ ] Creación de comunidades: (Telegram, Discord, Reddit, X, Playtoearn.net)
+* [ ] Creación Pitch Deck (Presentación para socios e inversores).
+* [ ] Formación del equipo de desarrollo.
+* [ ] Creación de prototipo.
 
-## Fase 3: **Preparación y Alianzas**
+## Fase 3: Preparación y Alianzas
 
-* Búsqueda de socios e inversores iniciales.
-* Desarrollo inicial de la comunidad.
-* Creación de estrategias de comunicación y marketing para atraer la atención de la comunidad y posibles aliados.
+* [ ] Búsqueda de socios e inversores iniciales.
+* [ ] Desarrollo inicial de la comunidad.
+* [ ] Creación de estrategias de comunicación y marketing para atraer la atención de la comunidad y posibles aliados.
 
 ## Fase 4: Pre-Venta (Inversores)
 
-* Pagina web v2. Aplicación de funciones Web3.
-* Identificación y evaluación de potenciales inversores interesados en el proyecto.
-* Desarrollo de materiales de presentación y documentos informativos para la pre-venta.
-* Organización de reuniones y presentaciones para comunicar la visión del proyecto y los detalles de la inversión.
-* Implementación de procesos de diligencia debida para garantizar la transparencia y la confianza de los inversores.
-* Establecimiento de condiciones y términos para la pre-venta, incluyendo estructuras de inversión y beneficios potenciales.
-* Seguimiento y gestión de las relaciones con los inversores durante la fase de pre-venta, respondiendo a preguntas y proporcionando actualizaciones periódicas.
+* [ ] Pagina web v2. Aplicación de funciones Web3.
+* [ ] Identificación y evaluación de potenciales inversores interesados en el proyecto.
+* [ ] Desarrollo de materiales de presentación y documentos informativos para la pre-venta.
+* [ ] Organización de reuniones y presentaciones para comunicar la visión del proyecto y los detalles de la inversión.
+* [ ] Implementación de procesos de diligencia debida para garantizar la transparencia y la confianza de los inversores.
+* [ ] Establecimiento de condiciones y términos para la pre-venta, incluyendo estructuras de inversión y beneficios potenciales.
+* [ ] Seguimiento y gestión de las relaciones con los inversores durante la fase de pre-venta, respondiendo a preguntas y proporcionando actualizaciones periódicas.
 
-## Fase 5: **Expansión y Promoción Comunitaria**
+### Fase 5: Expansión y Promoción Comunitaria
 
-* Expansión de asociaciones estratégicas para fortalecer el ecosistema del juego.
-* Búsqueda de colaboraciones con medios (PR) y comunidades para aumentar la visibilidad del proyecto.
-* Expansión de asociaciones estratégicas para fortalecer el ecosistema del juego.
-* Búsqueda de colaboraciones con medios de comunicación (PR) y comunidades para aumentar la visibilidad del proyecto.
-* Organización de eventos y actividades para involucrar activamente a la comunidad en el desarrollo y promoción del proyecto.
-* Implementación de estrategias de marketing digital para llegar a una audiencia más amplia y diversa.
-* Creación de contenido de alta calidad y material promocional para compartir en diversas plataformas y redes sociales.
+* [ ] Expansión de asociaciones estratégicas para fortalecer el ecosistema del juego.
+* [ ] Búsqueda de colaboraciones con medios (PR) y comunidades para aumentar la visibilidad del proyecto.
+* [ ] Expansión de asociaciones estratégicas para fortalecer el ecosistema del juego.
+* [ ] Búsqueda de colaboraciones con medios de comunicación (PR) y comunidades para aumentar la visibilidad del proyecto.
+* [ ] Organización de eventos y actividades para involucrar activamente a la comunidad en el desarrollo y promoción del proyecto.
+* [ ] Implementación de estrategias de marketing digital para llegar a una audiencia más amplia y diversa.
+* [ ] Creación de contenido de alta calidad y material promocional para compartir en diversas plataformas y redes sociales.
 
 ## Fase 6: Pre-Venta (Jugadores)
 
-* Creación de paquetes de pre-venta exclusivos que incluyan ventajas y beneficios para los jugadores que participen.
-* Organización de eventos especiales y promociones para generar entusiasmo y aumentar la participación en la pre-venta.
-* Implementación de un sistema de reserva o pre-compra en línea para que los jugadores puedan asegurar su acceso al juego antes del lanzamiento oficial.
-* Comunicación clara y transparente sobre las características y beneficios de la pre-venta para los jugadores, destacando el valor añadido que recibirán.
-* Seguimiento y soporte continuo para los jugadores que participen en la pre-venta, respondiendo preguntas y proporcionando actualizaciones sobre el progreso del juego.
+* [ ] Creación de paquetes de pre-venta exclusivos que incluyan ventajas y beneficios para los jugadores que participen.
+* [ ] Organización de eventos especiales y promociones para generar entusiasmo y aumentar la participación en la pre-venta.
+* [ ] Implementación de un sistema de reserva o pre-compra en línea para que los jugadores puedan asegurar su acceso al juego antes del lanzamiento oficial.
+* [ ] Comunicación clara y transparente sobre las características y beneficios de la pre-venta para los jugadores, destacando el valor añadido que recibirán.
+* [ ] Seguimiento y soporte continuo para los jugadores que participen en la pre-venta, respondiendo preguntas y proporcionando actualizaciones sobre el progreso del juego.
 
 ## Fase 7: Launcher
 
-* Desarrollo del launcher oficial de Catalepsia, proporcionando a los jugadores una plataforma para acceder al juego y gestionar sus configuraciones.
-* Diseño de una interfaz intuitiva y atractiva que facilite la navegación y la experiencia del usuario dentro del launcher.
-* Integración de funciones adicionales, como actualizaciones automáticas, noticias y actualizaciones del juego, gestión de perfiles, gestión de amigos, etc.
-* Pruebas exhaustivas del launcher para garantizar su estabilidad, seguridad y compatibilidad con diferentes sistemas operativos y hardware.
-* Lanzamiento del launcher junto con una campaña de promoción para informar a la comunidad sobre sus características y beneficios.
-* Seguimiento continuo y actualizaciones periódicas del launcher para agregar nuevas características, mejorar el rendimiento y abordar cualquier problema identificado por los usuarios.
+* [ ] Desarrollo del launcher oficial de Catalepsia, proporcionando a los jugadores una plataforma para acceder al juego y gestionar sus configuraciones.
+* [ ] Diseño de una interfaz intuitiva y atractiva que facilite la navegación y la experiencia del usuario dentro del launcher.
+* [ ] Integración de funciones adicionales, como actualizaciones automáticas, noticias y actualizaciones del juego, gestión de perfiles, gestión de amigos, etc.
+* [ ] Pruebas exhaustivas del launcher para garantizar su estabilidad, seguridad y compatibilidad con diferentes sistemas operativos y hardware.
+* [ ] Lanzamiento del launcher junto con una campaña de promoción para informar a la comunidad sobre sus características y beneficios.
+* [ ] Seguimiento continuo y actualizaciones periódicas del launcher para agregar nuevas características, mejorar el rendimiento y abordar cualquier problema identificado por los usuarios.
 
-## **Fase 8: Lanzamiento de Catalepsia**
+## Fase 8: Lanzamiento de Catalepsia
 
-* Implementación de estrategias de marketing y promoción para generar conciencia y maximizar la visibilidad del juego en el mercado.
-* Organización de eventos especiales de lanzamiento, como transmisiones en vivo, concursos o actividades de celebración para involucrar a la comunidad.
-* Comunicación activa con la comunidad para proporcionar información sobre el lanzamiento, incluyendo horarios, detalles de disponibilidad y enlaces de descarga.
-* Lanzamiento oficial de Catalepsia.
-* Monitoreo y soporte continuo durante el lanzamiento para abordar cualquier problema técnico o de servicio que pueda surgir.
+* [ ] Implementación de estrategias de marketing y promoción para generar conciencia y maximizar la visibilidad del juego en el mercado.
+* [ ] Organización de eventos especiales de lanzamiento, como transmisiones en vivo, concursos o actividades de celebración para involucrar a la comunidad.
+* [ ] Comunicación activa con la comunidad para proporcionar información sobre el lanzamiento, incluyendo horarios, detalles de disponibilidad y enlaces de descarga.
+* [ ] Lanzamiento oficial de Catalepsia.
+* [ ] Monitoreo y soporte continuo durante el lanzamiento para abordar cualquier problema técnico o de servicio que pueda surgir.
 
 ## Fase 9: Tienda NFT
 
-* Diseño y desarrollo de la Tienda.
-* Implementación de funcionalidades básicas de creación, compra y venta de NFTs.
-* Integración de billetera digital y sistema de pagos seguros.
-* Pruebas exhaustivas de la plataforma y corrección de errores.
+* [ ] Diseño y desarrollo de la Tienda.
+* [ ] Implementación de funcionalidades básicas de creación, compra y venta de NFTs.
+* [ ] Integración de billetera digital y sistema de pagos seguros.
+* [ ] Pruebas exhaustivas de la plataforma y corrección de errores.
 
-## **Fase 10: Implementación de DAO**
+## Fase 10: Implementación de DAO
 
-* Establecimiento de un DAO (Organización Autónoma Descentralizada) para Catalepsia, permitiendo la participación activa de la comunidad en la toma de decisiones relacionadas con el juego.
-* Diseño de la estructura de gobernanza del DAO, incluyendo la distribución de votos y la definición de procesos para la presentación y aprobación de propuestas.
-* Integración de herramientas tecnológicas para facilitar la participación de los miembros de la comunidad en la votación y la discusión de temas relevantes.
-* Implementación de mecanismos de incentivos para fomentar la participación y la contribución de los miembros del DAO, como recompensas en tokens o derechos de voto adicionales.
-* Organización de reuniones regulares del DAO para revisar el estado del juego, discutir posibles mejoras y tomar decisiones colectivas sobre el futuro desarrollo y dirección de Catalepsia.
-* Establecimiento de canales de comunicación transparentes y abiertos entre el equipo de desarrollo y la comunidad para facilitar el intercambio de información y la colaboración en el marco del DAO.
+* [ ] Establecimiento de un DAO (Organización Autónoma Descentralizada) para Catalepsia, permitiendo la participación activa de la comunidad en la toma de decisiones relacionadas con el juego.
+* [ ] Diseño de la estructura de gobernanza del DAO, incluyendo la distribución de votos y la definición de procesos para la presentación y aprobación de propuestas.
+* [ ] Integración de herramientas tecnológicas para facilitar la participación de los miembros de la comunidad en la votación y la discusión de temas relevantes.
+* [ ] Implementación de mecanismos de incentivos para fomentar la participación y la contribución de los miembros del DAO, como recompensas en tokens o derechos de voto adicionales.
+* [ ] Organización de reuniones regulares del DAO para revisar el estado del juego, discutir posibles mejoras y tomar decisiones colectivas sobre el futuro desarrollo y dirección de Catalepsia.
+* [ ] Establecimiento de canales de comunicación transparentes y abiertos entre el equipo de desarrollo y la comunidad para facilitar el intercambio de información y la colaboración en el marco del DAO.
 
 ## Fase: Expansión y Mejora Continua
 
-* Identificación de áreas de oportunidad y retroalimentación de la comunidad para impulsar la evolución del juego.
-* Desarrollo de actualizaciones periódicas que agreguen contenido nuevo, características y mejoras de calidad de vida.
-* Expansión de la base de jugadores mediante estrategias de marketing y promoción dirigidas.
-* Implementación de eventos especiales, torneos y actividades en el juego para mantener el compromiso de la comunidad.
-* Investigación y adopción de tecnologías emergentes para mantener Catalepsia en la vanguardia del entretenimiento interactivo.
+* [ ] Identificación de áreas de oportunidad y retroalimentación de la comunidad para impulsar la evolución del juego.
+* [ ] Desarrollo de actualizaciones periódicas que agreguen contenido nuevo, características y mejoras de calidad de vida.
+* [ ] Expansión de la base de jugadores mediante estrategias de marketing y promoción dirigidas.
+* [ ] Implementación de eventos especiales, torneos y actividades en el juego para mantener el compromiso de la comunidad.
+* [ ] Investigación y adopción de tecnologías emergentes para mantener Catalepsia en la vanguardia del entretenimiento interactivo.
 
 ***
 

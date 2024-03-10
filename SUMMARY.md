@@ -4,18 +4,18 @@
 
 ## Juego
 
-* [🌍 Universo ](juego/universo.md)
+* [🌍 Universo](juego/universo.md)
 * [🎮 Jugabilidad](juego/universo-1.md)
 * [☠️ Jugador](juego/jugador.md)
-* [🚪 Portón ](juego/porton.md)
+* [🚪 Portón](juego/porton.md)
 * [🔥 Abismo Infernal](juego/abismo-infernal.md)
 * [🩸 Habilidades](juego/runes.md)
-* [⁉️ Recursos ](juego/recursos.md)
+* [⁉️ Recursos](juego/recursos.md)
 
 ## Economía
 
 * [💲 Objetivos](economia/objetivos.md)
-* [🏬 Tienda](economia/tienda.md)
+* [🏬 Mercado](economia/mercado.md)
 * [🏁 Competición](economia/competicion.md)
 * [💻 Desarrolladores](economia/desarrolladores.md)
 * [📂 Esquema económico](economia/objetivos-1.md)
@@ -32,4 +32,4 @@
 * [🗺️ Hoja de ruta](ecosistema/roadmap.md)
 * [🎭 Equipo](ecosistema/team.md)
 * [❓ Preguntas frecuentes](ecosistema/preguntas-frecuentes.md)
-* [🎭 Información](ecosistema/info-oficial.md)
+* [🎭 Enlaces oficiales](ecosistema/info-oficial.md)
