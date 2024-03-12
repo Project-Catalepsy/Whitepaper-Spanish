@@ -24,7 +24,7 @@ El fondo se llena con un porcentaje de las contribuciones, reflejando el apoyo y
 
 La competición está dividida en temporadas. Cada temporada tendrá una duración de 35 días, dónde los jugador podrán competir. Después de cada temporada, habrá un período de descanso de 15 días que permitirá a los jugadores recuperarse, planificar estrategias y prepararse para la próxima temporada.
 
-Durante el transcurro de las temporadas el pozo comunitario se irá llenando con las contribuciones de la comunidad. Lo recaudado por una temporada será utilizada para las recompensas de la temporada posterior.
+Durante el transcurso de las temporadas el pozo comunitario se irá llenando con las contribuciones de la comunidad. Lo recaudado por una temporada será utilizada para las recompensas de la temporada posterior.
 
 * **Temporada 0:** Lo recaudado durante esta temporada será usado para las recompensas de la Temporada 1.
 * **Temporada 1:** La recompensa será lo recaudado por la anterior temporada (Temporada 0).
