@@ -31,8 +31,8 @@ Las fases del proyecto son aproximadas y están sujetas a posibles modificacione
 
 ## Fase 2: Desarrollo inicial
 
-* [ ] Creación de página web v1.
-* [ ] Creación de comunidades: (Telegram, Discord, Reddit, X, Playtoearn.net)
+* [x] Creación de página web v1 - Finalizada 13/03/2024&#x20;
+* [x] Creación de comunidades: (Telegram, Discord, Reddit, X, Playtoearn.net) - Finalizada 15/03/2024&#x20;
 * [ ] Creación Pitch Deck (Presentación para socios e inversores).
 * [ ] Formación del equipo de desarrollo.
 * [ ] Creación de prototipo.
